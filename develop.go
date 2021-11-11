@@ -1,3 +1,7 @@
 // develop
-// ini perubahan
-//conflix_1
+<<<<<<< HEAD
+
+=======
+// cari
+// conflix_2
+>>>>>>> featureA
